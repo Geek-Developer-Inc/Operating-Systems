@@ -63,5 +63,5 @@
         
 ## Cloning the repo
     
-         $ git clone https://github.com/GeekDevelope/Operating-Systems.git
+         $ git clone https://github.com/Geek-Developer-Inc/Operating-Systems.git
         
