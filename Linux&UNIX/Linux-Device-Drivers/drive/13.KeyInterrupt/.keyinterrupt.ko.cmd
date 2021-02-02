@@ -1,0 +1,1 @@
+cmd_/berserker/rootfs/1.MyFile/drive/13.KeyInterrupt/keyinterrupt.ko := arm-linux-ld -EL -r  -T /home/work/linux-3.5/scripts/module-common.lds --build-id  -o /berserker/rootfs/1.MyFile/drive/13.KeyInterrupt/keyinterrupt.ko /berserker/rootfs/1.MyFile/drive/13.KeyInterrupt/keyinterrupt.o /berserker/rootfs/1.MyFile/drive/13.KeyInterrupt/keyinterrupt.mod.o

@@ -1,0 +1,1 @@
+cmd_/berserker/rootfs/1.MyFile/drive/15.内核定时器以及poll轮询/time.ko := arm-linux-ld -EL -r  -T /home/work/linux-3.5/scripts/module-common.lds --build-id  -o /berserker/rootfs/1.MyFile/drive/15.内核定时器以及poll轮询/time.ko /berserker/rootfs/1.MyFile/drive/15.内核定时器以及poll轮询/time.o /berserker/rootfs/1.MyFile/drive/15.内核定时器以及poll轮询/time.mod.o

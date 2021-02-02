@@ -1,0 +1,1 @@
+cmd_/berserker/rootfs/1.MyFile/drive/11.FuncyioInterface/device.ko := arm-linux-ld -EL -r  -T /home/work/linux-3.5/scripts/module-common.lds --build-id  -o /berserker/rootfs/1.MyFile/drive/11.FuncyioInterface/device.ko /berserker/rootfs/1.MyFile/drive/11.FuncyioInterface/device.o /berserker/rootfs/1.MyFile/drive/11.FuncyioInterface/device.mod.o
